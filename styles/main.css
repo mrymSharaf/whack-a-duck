@@ -13,7 +13,7 @@
 }
 
 .duck{
-    background-image: url('../images/duck1.png');
+    background-image: url('../assets/duck1.png');
     background-size: contain;
     background-repeat: no-repeat;
 }
