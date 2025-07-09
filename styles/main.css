@@ -11,3 +11,9 @@
     width: 58.6px;
     height: 58.6px;
 }
+
+.duck{
+    background-image: url('../images/duck1.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
